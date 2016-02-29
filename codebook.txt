@@ -1,0 +1,110 @@
+Codebook for Getting and Cleaning Data course project
+
+The columns in the full dataset are as follows:
+
+(1) 	subjectid: The identification number assigned to the person for which the observation is taken
+
+(2) 	activity: A description of what activity the subject was performing (walking, walking_upstairs,
+			walking_downstairs, sitting, standing, laying)
+			
+(3-5) 	tbodyaccelerationmeanxyz: The mean of the body acceleration signal in the time domain
+			along the X/Y/Z axis of the phone
+			
+(6-8) 	tbodyaccelerationstdxyz: The standard deviation of the body acceleration signal in the time 
+			domain along the X/Y/Z axis of the phone
+			
+(9-11) 	tgravityaccelerationmeanxyz: The mean of the gravity acceleration signal in the time domain 
+			along the X/Y/Z axis of the phone
+			
+(12-14) tgravityaccelerationstdxyz: The standard deviation of the gravity acceleration signal in the 
+			time domain along the X/Y/Z axis of the phone
+			
+(15-17)	tbodyaccelerationjerkmeanxyz: The mean of the body linear acceleration (jerk) in the time domain
+			along the X/Y/Z axis of the phone
+			
+(18-20)	tbodyaccelerationjerkstdxyz: The standard deviation of the body linear acceleration (jerk) 
+			in the time domain along the X/Y/Z axis of the phone
+			
+(21-23)	tbodygyromeanxyz: The mean of the body gyroscopic signal in the time domain	along the X/Y/Z
+			axis of the phone
+			
+(24-26)	tbodygyrostdxyz: The standard deviation of the body gyroscopic signal in the time domain 
+			along the X/Y/Z axis of the phone
+			
+(27-29)	tbodygyrojerkmeanxyz: The mean of the body angular accleration (jerk) in the time domain 
+			along the X/Y/Z axis of the phone
+			
+(30-32)	tbodygyrojerkstdxyz: The standard deviation of the body angular accleration (jerk) in the 
+			time domain along the X/Y/Zaxis of the phone
+			
+(33)	tbodyaccelerationmagmean: The mean of the magnitude of the 3-dimensional body acceleration
+			signal in the time domain
+			
+(34)	tbodyaccelerationmagstd: The standard deviation of the magnitude of the 3-dimensional body 
+			acceleration signal in the time domain
+			
+(35)	tgravityaccelerationmagmean: The mean of the magnitude of the 3-dimensional gravity acceleration
+			signal in the time domain
+			
+(36)	tgravityaccelerationmagstd: The standard deviation of the magnitude of the 3-dimensional gravity 
+			acceleration signal in the time domain
+			
+(37)	tbodyaccelerationjerkmagmean: The mean of the magnitude of the 3-dimensional body linear 
+			acceleration (jerk) in the time domain
+			
+(38)	tbodyaccelerationjerkmagstd: The standard deviation of the magnitude of the 3-dimensional body 
+			linear acceleration (jerk) in the time domain			
+			
+(39)	tbodygyromagmean: The mean of the magnitude of the 3-dimensional body gyroscopic
+			signal in the time domain
+			
+(40)	tbodygyromagstd: The standard deviation of the magnitude of the 3-dimensional body 
+			gyroscopic signal in the time domain
+			
+(41)	tbodygyrojerkmagmean: The mean of the magnitude of the 3-dimensional body angular 
+			acceleration (jerk) in the time domain
+			
+(42)	tbodygyrojerkmagstd: The standard deviation of the magnitude of the 3-dimensional body 
+			angular acceleration (jerk) in the time domain
+			
+(43-45) fbodyaccelerationmeanxyz: The mean of the body acceleration signal in the frequency domain
+			along the X/Y/Z axis of the phone
+			
+(46-48) fbodyaccelerationstdxyz: The standard deviation of the body acceleration signal in the frequency 
+			domain along the X/Y/Z axis of the phone
+			
+(49-51)	fbodyaccelerationjerkmeanxyz: The mean of the body linear acceleration (jerk) in the frequency 
+			domain along the X/Y/Z axis of the phone
+			
+(52-54)	fbodyaccelerationjerkstdxyz: The standard deviation of the body linear acceleration (jerk) 
+			in the frequency domain along the X/Y/Z axis of the phone
+			
+(55-57)	fbodygyromeanxyz: The mean of the body gyroscopic signal in the frequency domain along the X/Y/Z
+			axis of the phone
+			
+(58-60)	fbodygyrostdxyz: The standard deviation of the body gyroscopic signal in the frequency domain 
+			along the X/Y/Z axis of the phone
+			
+(61)	fbodyaccelerationmagmean: The mean of the magnitude of the 3-dimensional body acceleration
+			signal in the frequency domain
+			
+(62)	fbodyaccelerationmagstd: The standard deviation of the magnitude of the 3-dimensional body 
+			acceleration signal in the frequency domain
+			
+(63)	fbodyaccelerationjerkmagmean: The mean of the magnitude of the 3-dimensional body linear 
+			acceleration (jerk) in the frequency domain
+			
+(64)	fbodyaccelerationjerkmagstd: The standard deviation of the magnitude of the 3-dimensional body 
+			linear acceleration (jerk) in the frequency domain
+			
+(65)	fbodygyromagmean: The mean of the magnitude of the 3-dimensional body gyroscopic
+			signal in the frequency domain
+			
+(66)	fbodygyromagstd: The standard deviation of the magnitude of the 3-dimensional body 
+			gyroscopic signal in the frequency domain	
+			
+(67)	fbodygyrojerkmagmean: The mean of the magnitude of the 3-dimensional body angular 
+			acceleration (jerk) in the frequency domain
+			
+(68)	fbodygyrojerkmagstd: The standard deviation of the magnitude of the 3-dimensional body 
+			angular acceleration (jerk) in the frequency domain				
